@@ -1,0 +1,49 @@
+.nav1{
+    background-color: orangered;
+    padding-left: 300px;
+}
+
+.a1{
+    padding-top: 10px;
+    color: white;
+}
+
+.a2{
+    padding: 15px 0px;
+}
+
+.link12 li{
+    padding-right: 40px;
+}
+
+.nav2{
+    padding-left: 300px;
+    color: orangered;
+    background-color: white;
+}
+
+.head1{
+    color: black;
+}
+
+.link1{
+    padding-right: 150px;
+}
+
+.a5{
+    padding: 70px;
+}
+
+.b1{
+    border-radius: 25px;
+    background-color: deepskyblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;  
+}
+
+.main1{
+    background-image: url("../images/tree.jpg");
+    
+    height: 500px;
+}
