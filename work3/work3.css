@@ -132,3 +132,26 @@
 .g8{
     padding-right: 20px;
 }
+.g9{
+    padding-top: 20px;
+    margin-right: -20px;
+
+}
+.g10{
+    padding-top: 20px;
+    margin-right: -210px;
+
+}
+.g15{
+    background-color: black;
+    
+    color: aliceblue;
+}
+.g16{
+    
+      background-color: black;
+        
+        color: aliceblue;
+        text-align: center;
+    }
+}
