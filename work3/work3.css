@@ -40,7 +40,9 @@
     color: white;
     border: none;
     padding: 10px 20px;  
-
+}
+.b1:hover{
+    
 }
 
 .main1{
@@ -80,10 +82,19 @@
 .g3{
     margin: 5px 20px;
     border-radius: 5px;
-    padding: 50px;
+    padding: 20px 50px;
     background-color: white;
     color: black;
 }
+.g20{
+    color: orangered;
+    font-size: 25px;
+}
+.g21{
+    color: white;
+    font-size: 20px;
+}
+
 
 .g4{
     margin-left: 100px;
@@ -140,18 +151,30 @@
 .g10{
     padding-top: 20px;
     margin-right: -210px;
+}
 
+.g25{
+    border-radius: 10px;
 }
 .g15{
     background-color: black;
-    
-    color: aliceblue;
+    color: rgb(140, 141, 142);
 }
 .g16{
-    
-      background-color: black;
-        
-        color: aliceblue;
-        text-align: center;
-    }
+    background-color: black; 
+    color: rgb(140, 141, 142);
+    text-align: center;
+}
+.g17{
+    background-color: black;
+    text-align: center;
+}
+
+.head4{
+    color: aliceblue;
+}
+
+.g19{
+    font-size: 25px; 
+    margin-left: 40px;
 }
