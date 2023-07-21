@@ -40,9 +40,12 @@
     color: white;
     border: none;
     padding: 10px 20px;  
+    border: 2px solid rgb(20, 57, 242);
 }
 .b1:hover{
-    
+    color: rgb(20, 57, 242);
+    background-color: white;
+    border: 2px solid rgb(20, 57, 242);
 }
 
 .main1{
@@ -82,9 +85,15 @@
 .g3{
     margin: 5px 20px;
     border-radius: 5px;
-    padding: 20px 50px;
+    padding: 20px 40px;
     background-color: white;
     color: black;
+    transition: padding .5s;
+}
+
+.g3:hover{
+    padding: 30px 50px;
+
 }
 .g20{
     color: orangered;
@@ -118,6 +127,10 @@
     border: 1px solid rgba(128, 128, 128, 0.855);
     padding-bottom: 10px;
 }
+.g5 input:hover{
+    border: 1px solid black;
+    
+}
 .g5 label{
     margin-top: -13px;
     padding-top: 18px;
@@ -131,10 +144,16 @@
     border-radius: 25px;
     background-color: orangered;
     color: white;
-    border: none;
+    border: 2px solid orangered;
     margin-top: 20px;
     padding: 8px 56px;  
 }
+.b2:hover{
+    color: orangered;
+    background-color: white;
+    border: 2px solid orangered;
+}
+
 .g7{
     list-style-type: disc;
     padding: 0 20px;
@@ -177,4 +196,20 @@
 .g19{
     font-size: 25px; 
     margin-left: 40px;
+}
+
+.g22{
+    display: flex;
+    padding-right: 80px;
+}
+.g23{
+    margin-right: 60px;
+    font-size: 25px; 
+    color: aliceblue;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.g28:hover{
+    color: aqua;
 }
