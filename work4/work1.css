@@ -1,0 +1,32 @@
+.body{
+    background-color: white;
+    color: black;
+}
+
+.nav2{
+    text-align: center;
+    margin: 0 200px;
+}
+
+.head1{
+    margin-right: 200px;
+}
+
+.a1{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+
+.b1{
+    background-color: rgb(240, 88, 222);
+    color: white;
+    border: none;
+    padding: 10px 40px;  
+}
+.b1:hover{
+    background-color: rgb(3, 19, 99);
+}
