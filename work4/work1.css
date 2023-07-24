@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 .body{
     background-color: white;
     color: black;
+}
+.container{
+    width: 500px;
 }
 
 .nav2{
@@ -8,8 +12,17 @@
     margin: 0 200px;
 }
 
+.link1{
+    width: 500px;
+}
+
 .head1{
     margin-right: 200px;
+    font-family: 'Playfair Display', serif;
+    font-size: 3em;
+    font-weight: 900;
+    color: black;
+    width: 200px;
 }
 
 .a1{
@@ -22,11 +35,15 @@
 
 
 .b1{
-    background-color: rgb(240, 88, 222);
+    background-color: rgb(220, 84, 84);
     color: white;
     border: none;
     padding: 10px 40px;  
 }
 .b1:hover{
     background-color: rgb(3, 19, 99);
+}
+
+.z1{
+    background-color: #fff000;
 }
