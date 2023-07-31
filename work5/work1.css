@@ -5,5 +5,49 @@
 
 .top{
     color: #fff;
-    background-color: #01054c;
+    background-color: #16213cfa;
+}
+
+.a1{
+    display: flex;
+    justify-content: space-between;
+}
+.a2 li{
+    padding-top: 5px;
+    padding-left: 15px;
+     
+}
+
+.div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.a3{
+    height: 650px;
+    width: auto;
+    background-color: rgb(248, 248, 248);
+}
+
+.a3 img{
+    height: 500px;
+    width: 500px;
+    
+}
+
+.b1{
+    color: green;
+}
+
+.a4{
+    background-color: rgb(248, 248, 248);
+}
+.a6 , .a7{
+    text-align: center;
+}
+
+.i1{
+    border-radius: 50%;
+    height: 250px;
+    width: fit-content;    
 }
