@@ -226,3 +226,43 @@
     display: flex;
     list-style-type: none;
 }
+.bb1{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 2px 10px;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+
+.bb2{
+    display: flex;
+}
+
+.bb2 p{
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.bb3{
+    color: white;
+    background-color: grey;
+    border: none;
+    padding: 2px 10px;
+    border-radius: 3px;
+    margin-right: 10px;
+    padding-right: 10px;
+    
+}
+.bb4{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 2px 100px;
+    border-radius: 3px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.b13{
+    height:100px;
+    margin-right: 10px;
+}
