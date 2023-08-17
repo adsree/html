@@ -266,3 +266,16 @@
     height:100px;
     margin-right: 10px;
 }
+
+.m00{
+    padding-bottom: 500px;
+}
+
+.pp0{
+    display: flex;
+    justify-content: space-between;
+}
+
+.pp0 p{
+    padding-top: 10px;
+}
