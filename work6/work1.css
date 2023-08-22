@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair+Display&display=swap');
+
 
 .a1{
     z-index: 0;
@@ -22,7 +25,6 @@
 }
 
 .eva{
-    font-family: 'Playfair Display', serif;
     font-family: 'Rubik Wet Paint', cursive;
     text-align: center;
     margin-left: -950px;
@@ -71,4 +73,37 @@
     color: aliceblue;
     z-index: 990;
     margin-left: -100px;
+}
+
+.big{
+    padding-top: 35px;
+    text-align: left;
+    font-size: 4em;
+    position: relative;
+    padding-left: 450px;
+    font-family: 'PT Serif', serif;
+}
+
+.colo{
+    font-style: normal;
+    background-color: #fdcb6e;
+}
+
+.smal{
+    text-align: left;
+    font-size: 1.1em;
+    position: relative;
+    padding-left: 450px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding-bottom: 25px;
+}
+
+.b3{
+    display: flex;
+    justify-content: end;
+}
+
+.cd{
+    padding: 45px 0;
 }
