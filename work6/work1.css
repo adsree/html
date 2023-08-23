@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
 
 
 .a1{
@@ -102,8 +104,102 @@
 .b3{
     display: flex;
     justify-content: end;
+    transition: all 1s ease;
+    padding: 80px 25px;
 }
 
 .cd{
-    padding: 45px 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: none;
+    padding: 85px 0;
+}
+.cd1{
+    background: brown;
+    color: #fff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: none;
+    padding: 85px 0;
+}
+.cd2{
+    background: #fdcb6e;
+    color: #fff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: none;
+    padding: 85px 0;
+}
+
+.title{
+    font-family: 'PT Serif', serif;
+    font-size: 2em;
+    padding: 15px 0;
+}
+
+.imgcard{
+    height: auto;
+    width: 80px;
+    color: white;
+}
+
+.text{
+    font-size: large;
+}
+
+.cd:hover, .cd1:hover{
+    background-color: #fdcb6e;
+}
+
+.ltr1{
+    font-size: 17.5em;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    margin-top: -50px;
+}
+
+.ltr2{
+    font-size: 18em;
+    text-transform: uppercase;
+    font-family: 'Lora', serif;
+    margin-top: -200px;
+    text-align: right;
+}
+
+.hid{
+    visibility: hidden;
+}
+
+.show:hover{
+    .hid{
+        visibility: visible !important;
+        text-align: left;
+    }
+}
+
+.lla{
+    text-align: right;
+}
+.img2{
+    height: 800px;
+    width: 500px;
+}
+
+.lla2{
+    text-align: left;
+    padding-top: 400px;
+    position: relative;
 }
