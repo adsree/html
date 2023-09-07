@@ -1,4 +1,4 @@
-/* ---------hover of card---------- */
+/* ---------hover of card----------
 .hahaha {
     margin: 0;
     padding: 0;
@@ -82,3 +82,206 @@
 } 
 
 /* --------hover of card end--------*/
+
+
+
+/* carousal */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair+Display&display=swap');
+
+
+.a1{
+    z-index: 0;
+}
+
+.a1 img{
+    width: 100%;
+    height: 950px;
+    z-index: 2;
+}
+
+.a2{
+    background-color: black;
+    height: 200px;
+    z-index: 2;
+}
+
+.mm{
+    background-color: black;
+    height: 950px;
+}
+
+.eva{
+    font-family: 'Rubik Wet Paint', cursive;
+    text-align: center;
+    margin-left: -950px;
+    margin-top: 15%;
+    color: transparent;
+    -webkit-text-stroke:2px white;
+    font-size: 33em;
+}
+
+.a3{
+    background-color: transparent;
+    position: absolute;
+    top: 90px;
+    margin-top: -88px;
+    z-index: 5;
+}
+
+.a31{
+    z-index: 2;
+}
+
+.a31 p{
+    color: white;
+    font-size: .8em;
+    font-weight: 600;
+    z-index: 2;
+}
+
+.a31 p:hover{
+    color: rgb(255, 157, 0);
+}
+
+.a32 p{
+    font-weight: 900;
+    color: white;
+    font-size: 1.5em;
+}
+
+.nn{
+    background-color: transparent;
+    margin-top: -80px;
+}
+
+.llll{
+    width: auto !important ;
+    color: aliceblue;
+    z-index: 990;
+    margin-left: -100px;
+}
+
+.big{
+    padding-top: 35px;
+    text-align: left;
+    font-size: 4em;
+    position: relative;
+    padding-left: 450px;
+    font-family: 'PT Serif', serif;
+}
+
+.colo{
+    font-style: normal;
+    background-color: #fdcb6e;
+}
+
+.smal{
+    text-align: left;
+    font-size: 1.1em;
+    position: relative;
+    padding-left: 450px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding-bottom: 25px;
+}
+
+.b3{
+    display: flex;
+    justify-content: end;
+}
+
+.smal{
+    text-align: left;
+    font-size: 1.1em;
+    position: relative;
+    padding-left: 450px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding-bottom: 25px;
+}
+
+.b3{
+    display: flex;
+    justify-content: end;
+    transition: all 1s ease;
+    padding: 80px 25px;
+} */ 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');
+
+.a1{
+    z-index: 0;
+}
+
+.a1 img{
+    width: 100%;
+    height: 950px;
+    z-index: 2;
+}
+
+.a2{
+    background-color: black;
+    height: 200px;
+    z-index: 2;
+}
+
+.mm{
+    background-color: black;
+    height: 950px;
+}
+
+.eva{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Rubik Wet Paint', cursive;
+    text-align: center;
+    margin-left: -950px;
+    margin-top: 15%;
+    color: transparent;
+    -webkit-text-stroke:2px white;
+    font-size: 33em;
+}
+
+.a3{
+    background-color: transparent;
+    position: absolute;
+    top: 90px;
+    margin-top: -88px;
+    z-index: 5;
+}
+
+.a31{
+    z-index: 2;
+}
+
+.a31 p{
+    color: white;
+    font-size: .8em;
+    font-weight: 600;
+    z-index: 2;
+}
+
+.a31 p:hover{
+    color: rgb(255, 157, 0);
+}
+
+.a32 p{
+    font-weight: 900;
+    color: white;
+    font-size: 1.5em;
+}
+
+.nn{
+    background-color: transparent;
+    margin-top: -80px;
+}
+
+.llll{
+    width: auto !important ;
+    color: aliceblue;
+    z-index: 990;
+    margin-left: -100px;
+}
