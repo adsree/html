@@ -4,7 +4,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap'); */
 
-
 .a1{
     z-index: 0;
 }
@@ -100,11 +99,6 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     padding-bottom: 25px;
-}
-
-.b3{
-    display: flex;
-    justify-content: end;
 }
 
 .smal{
@@ -228,13 +222,11 @@
     font-family: sans-serif; 
 }
 
-.icon {
+.icon1 {
     position: absolute;
-    top: 0;
-    left: 0;
     width: 700px;
     height: 100%;
-    background: white;
+    background: transparent;
 }
 
 .para {
@@ -262,7 +254,7 @@
     color: black;
 }
 
-.slide {
+.slidex {
     width: 500px;
     height: 200px;
     transition: 0.5s;
@@ -274,7 +266,7 @@
     justify-content: center;
     align-items: center;
     z-index: 1;
-    transition: .7s;
+    transition: .5s;
     transform: translateY(100px);
 }
 .HAHA{
@@ -309,7 +301,7 @@
     display: flex;
     align-items: center;
     box-sizing: border-box;
-    transition: .8s;
+    transition: .4s;
     transform: translateY(-100px);
 }
 
@@ -352,6 +344,10 @@
 }
 
 /* hover of card 2 */
+
+.lla55{
+    z-index: 50;
+}
 
 .hahaha {
     margin: 0;
@@ -415,7 +411,7 @@
     color: black;
 }
 
-.slide {
+.slidex {
     width: 500px;
     height: 200px;
     transition: 0.5s;
@@ -427,13 +423,13 @@
     justify-content: center;
     align-items: center;
     z-index: 1;
-    transition: .7s;
+    transition: .5s;
     transform: translateY(100px);
 }
 .HAHA1{
     border: none;
     margin-top: 200px;
-    margin-left: 90px;
+    margin-left: 50px;
     z-index: -2;
     position: relative;
     display: flex;
@@ -474,7 +470,7 @@
     display: flex;
     align-items: center;
     box-sizing: border-box;
-    transition: .8s;
+    transition: .4s;
     transform: translateY(-100px);
 }
 
@@ -516,7 +512,30 @@
     z-index: 3;
 }
 
+.img212{
+    height: 900px;
+    width: 600px;
+    z-index: 3;
+    margin-left: 60px;
+}
+
+.img214{
+    height: 900px;
+    width: 1100px;
+    z-index: 3;
+    margin-left: 30px;
+}
+
 /* end of card 2 */
+
+
+
+
+
+
+
+
+
 
 /* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Playfair+Display&family=Rubik+Wet+Paint&display=swap');

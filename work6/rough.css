@@ -285,3 +285,195 @@
     z-index: 990;
     margin-left: -100px;
 }
+
+
+.big{
+    padding-top: 35px;
+    text-align: left;
+    font-size: 4em;
+    position: relative;
+    padding-left: 450px;
+    font-family: 'PT Serif', serif;
+}
+
+.colo{
+    font-style: normal;
+    background-color: #fdcb6e;
+}
+
+.smal{
+    text-align: left;
+    font-size: 1.1em;
+    position: relative;
+    padding-left: 450px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding-bottom: 25px;
+}
+
+.smal{
+    text-align: left;
+    font-size: 1.1em;
+    position: relative;
+    padding-left: 450px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding-bottom: 25px;
+}
+
+.b3{
+    display: flex;
+    justify-content: end;
+    transition: all 1s ease;
+    padding: 80px 25px;
+}
+
+.cd1{
+    background: brown;
+    color: #fff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: none;
+    padding: 85px 0;
+}
+.cd2{
+    background: #fdcb6e;
+    color: #fff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: none;
+    padding: 85px 0;
+}
+
+.title{
+    font-family: 'PT Serif', serif;
+    font-size: 2em;
+    padding: 15px 0;
+}
+
+.imgcard{
+    height: auto;
+    width: 80px;
+    color: white;
+}
+
+.text{
+    font-size: large;
+}
+
+.cd:hover, .cd1:hover{
+    background-color: #fdcb6e;
+}
+
+.ltr1{
+    font-size: 17.5em;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    margin-top: -50px;
+}
+
+.ltr2{
+    font-size: 18em;
+    text-transform: uppercase;
+    font-family: 'Lora', serif;
+    margin-top: -200px;
+    text-align: right;
+}
+
+.hid{
+    visibility: hidden;
+}
+
+.show:hover{
+    .hid{
+        visibility: visible !important;
+        text-align: left;
+    }
+}
+
+
+.lla{
+    text-align: right;
+    z-index: 5;
+}
+.img2{
+    height: 800px;
+    width: 500px;
+}
+
+/* hover of card 1 */
+
+.hahaha {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    font-family: sans-serif; 
+}
+
+.icon1 {
+    position: absolute;
+    width: 700px;
+    height: 100%;
+    background: white;
+}
+
+.para {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: black;
+    padding-bottom: 25px;
+    font-family: "Poppins", sans-serif;
+}
+.para a{
+    font-family: "Lora", serif;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 5px solid black;
+}
+.para a:hover{
+    color: black;
+}
+
+.slidex {
+    width: 500px;
+    height: 200px;
+    transition: 0.5s;
+}
+
+.slide1 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transition: .7s;
+    transform: translateY(100px);
+}
+.HAHA{
+    border: none;
+    margin-top: 200px;
+    margin-left: -200px;
+}
+
+
+
+/* end of card 1 */
